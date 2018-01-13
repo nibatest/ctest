@@ -1,4 +1,5 @@
 #include <stdio.h>
+//修改代码，王愿杰
 
 #define N 10
 
